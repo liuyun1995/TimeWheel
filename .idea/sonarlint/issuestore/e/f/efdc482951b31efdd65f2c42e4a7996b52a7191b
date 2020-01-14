@@ -1,0 +1,12 @@
+
+Nsquid:S1172"+Remove this unused method parameter "cron".(—¹¦Æøÿÿÿÿ8ÄÛ¬òù-
+Vsquid:S11722"3Remove this unused method parameter "nextExecTime".(å¹Ùùÿÿÿÿ8ÄÛ¬òù-
+Wsquid:S3400"9Remove this method and declare a constant for this value.(”·³›8õ¬Íòù-
+Wsquid:S3400!"9Remove this method and declare a constant for this value.(”·³›8ÄÛ¬òù-
+Xsquid:S1118":Add a private constructor to hide the implicit public one.(±åøä8ÄÛ¬òù-
+Wsquid:S3400*"9Remove this method and declare a constant for this value.(”·³›8ÄÛ¬òù-
+Qsquid:S1172)"3Remove this unused method parameter "nextExecTime".(è“Í8ÄÛ¬òù-
+Wsquid:S34003"9Remove this method and declare a constant for this value.(”·³›8ÄÛ¬òù-
+Qsquid:S1172"3Remove this unused method parameter "nextExecTime".(ÈÀáÀ8õ¬Íòù-
+Qsquid:S1172 "3Remove this unused method parameter "nextExecTime".(¨»¯Â8ÄÛ¬òù-
+Wsquid:S3400"9Remove this method and declare a constant for this value.(ª¸•¼8ÄÛ¬òù-
